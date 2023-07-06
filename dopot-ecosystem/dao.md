@@ -15,6 +15,15 @@ The Dopot DAO is a Decentralized Autonomous Organization focused on growing the 
 
 Raise capital and deploy it on marketing and development for Dopot and grow the crowdfunding ecosystem together. Distribute the benefits to members and key contributors.
 
+The DAO's economic model is based on these points:
+
+| Expenses and Investments               | Revenue Streams                        |
+| -------------------------------------- | -------------------------------------- |
+| Dopot Protocol updates                 | Dopot Protocol success fees            |
+| Token Listings                         | Dopot Protocol deadline extension fees |
+| Marketing and Participation Incentives | $DPT sales and liquidity providing     |
+
+
 ## Who runs the DAO? <a href="#who-runs-olympus" id="who-runs-olympus"></a>
 
 Unlike many others, our governance process is fair and secured by most attack vectors, thanks to a multisig-like DAO. Voting power is granted only to the top members and contributors of the community, so they can vote and propose changes, investments, and improvements.
