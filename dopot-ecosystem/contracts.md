@@ -6,6 +6,6 @@ coverY: 0
 
 # Contracts
 
-Dopot's contracts are currently in the testing phase on Polygon's Testnet (Mumbai)\
+Dopot's contracts are currently in the testing phase on Polygon's Testnet (Mumbai).
 
-The source code is fully available and auditable on [Github](https://github.com/Dopot-Labs/dopot_contracts).
+The source code is fully available and auditable on [Github](https://github.com/Dopot-Labs/dopot\_contracts).

@@ -4,6 +4,7 @@
 
 ## Dopot Ecosystem
 
+* [Crowdfunding](dopot-ecosystem/crowdfunding.md)
 * [DAO](dopot-ecosystem/dao.md)
 * [Contracts](dopot-ecosystem/contracts.md)
 
