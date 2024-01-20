@@ -11,7 +11,8 @@ coverY: 0
 $DPT is the token of the Dopot platform that will be fairly launched with the UNCX launchpad. It currently has the following utilities, but more will be added in the future:
 
 * investors can stake $DPT in a project they believe in to boost its visibility and stand to gain a share of its raised funds&#x20;
-* project creators pay for their project's withdrawal and postponing (deadline extension) fees with $DPT
+* project creators use $DPT to pay for their project's withdrawal and postponing (deadline extension) fees
 * project creators can stake $DPT to boost their project's visibility in the homepage
+* users can use $DPT to propose and vote changes on the Dopot DAO
 
 Anyone can also provide liquidity and stake $DPT to earn rewards on other DeFi platforms like Camelot and Uniswap.
