@@ -12,6 +12,8 @@ The Dopot contracts have undergone multiple audits and use well-known libraries 
 
 [ProjectFactory](https://de.fi/scanner/contract/0xe49b2ccf5384de2c31df9b68502a30beb99267f0?chainId=arbi)
 
+[Project](https://de.fi/scanner/contract/0xe6664fc068b4f8b7ac1a3211b2fd103e4c814c83?chainId=arbi)
+
 [DopotReward](https://de.fi/scanner/contract/0xa354382b83247975eac21b5c22ee6cf8604f928a?chainId=arbi)
 
 [Utils](https://de.fi/scanner/contract/0x219c066eb77bb57d363cd5f800d89819715dd4d2?chainId=arbi)
